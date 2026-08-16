@@ -1,0 +1,4 @@
+interface:
+  display_name: "NiuLai Director"
+  short_description: "把任意图像导演成体块笨拙、贴图胡乱的自制原始 3D"
+  default_prompt: "Use $niulai-director to direct this image into crude homemade 3D with primitive lumpy solids, badly mapped tiny textures, sparse repeated assets, and naive preview lighting."
